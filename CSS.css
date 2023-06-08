@@ -1,9 +1,9 @@
 body{
-    background-color: cadetblue;
+    background: linear-gradient(180deg, #00ffff, #000000);
 }
 
 #rectangulo {
-    width: 1275px;
+    width: 1270px;
     height: 100px;
     background-color: black;
     border: 1px solid rgb(0, 0, 0); /* Agrega este estilo */
